@@ -1,4 +1,4 @@
-# [RELBoss](https://relboss.github.io)
+# [deadibone](https://deadibone.github.io)
 # Not proffessional
 this chatbot was just made in a day lol
 This thing uses this model: https://huggingface.co/spaces/yuntian-deng/ChatGPT4Turbo
